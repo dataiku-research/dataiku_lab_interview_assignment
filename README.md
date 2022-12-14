@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 ## Help
 
-Please contact [Simona Maggio](@mailto:simona.maggio@dataiku.com).
+Please contact [Simona Maggio](mailto:simona.maggio@dataiku.com).
 
